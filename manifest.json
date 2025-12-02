@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-novel-mobile-view",
+  "name": "Novel Mobile View",
+  "version": "1.1.0",
+  "minAppVersion": "0.15.0",
+  "description": "Simulates a mobile phone reading view, making it suitable for use when writing novels.",
+  "author": "Hailey",
+  "authorUrl": "https://example.com",
+  "isDesktopOnly": false
+}
