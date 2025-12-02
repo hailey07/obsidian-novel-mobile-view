@@ -10,6 +10,3 @@
 ![](images/preview.png)
 ![](images/shortcut.gif)
 
-## 兼容性
-本插件需要 Obsidian v0.15.0 或更高版本。
-
