@@ -1,4 +1,5 @@
-![](CNReadMe.md)
+[中文介绍](CNReadme.md)
+
 ## Function：
 * **Immersive Reading:** Displays notes in a mobile reading format (**Plain text display only**).
 	* Customizable font size, line spacing, 和 paragraph spacing.
