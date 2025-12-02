@@ -1,12 +1,12 @@
-## 功能：
-* **沉浸式阅读：** 将笔记内容以手机端阅读形式展示（**仅支持纯文本展示**）。
-	* 可自定义字号、行间距、段间距
-	* 可变更为浮动窗口
-* **定位编辑：** 在预览窗口可点击文字，自动将光标定位至待修改段落。
-* **编辑段落提示：** 编辑段落会自动滚动在预览窗口进行高亮提示。
+![](CNReadMe.md)
+## Function：
+* **Immersive Reading:** Displays notes in a mobile reading format (**Plain text display only**).
+	* Customizable font size, line spacing, 和 paragraph spacing.
+	* Can be changed to a floating window.
+* **Positioning Editing:** Clicking on text in the preview window automatically positions the cursor in the paragraph to be edited.
+* **Paragraph Editing Hints:** Editing paragraphs will automatically scroll and highlight in the preview window.
 
-
-## 截图：
-![](images/preview.png)
-![](images/shortcut.gif)
-
+## Preview：
+![](images/preview1.png)
+![](images/preview_gif.gif)
+![](images/setting_pannel.png)
