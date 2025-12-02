@@ -10,4 +10,4 @@
 ## Preview：
 ![](images/preview1.png)
 ![](images/preview_gif.gif)
-![](images/setting_pannel.png)
+![](images/en_setting_pannel.png)
