@@ -156,7 +156,7 @@
 input[type="radio"], input[type=checkbox]{
   border-radius: 4px ;
 }
-textarea, .multi-select-container, input.metadata-input-text, input[type='date'], input[type='datetime-local'], input[type='text'], input[type='search'], input[type='email'], input[type='password'], input[type='number']{
+input[type='number']{
   width: 50px;
   margin: 0 4px;
 }
