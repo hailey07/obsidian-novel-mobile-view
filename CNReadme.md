@@ -7,7 +7,7 @@
 - **段落编辑提示：** 编辑段落时，手机界面会自动滚动并高亮显示。
 
 ## 安装方法：
-- 下载并解压文件。
+- [下载](https://github.com/hailey07/obsidian-novel-mobile-view/releases/download/V1.1.1/obsidian-novel-mobile-view.zip)并解压文件。
 - 将 **obsidian-novel-mobile-view** 文件夹放入 **第三方插件** 文件夹（设置 → 第三方插件 → 已安装插件 → 打开插件文件夹图标）。
 
 ## 界面预览：
