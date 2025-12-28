@@ -10,7 +10,7 @@
 
 ## Installation:
 - [Download](https://github.com/hailey07/obsidian-novel-mobile-view/releases/download/V1.1.1/obsidian-novel-mobile-view.zip) and extract the file . 
-- Place the **obsidian-novel-mobile-view** folder into **Community plugins** folder (Setting → Community plugins → Installed plugins → Open plugins folder icon).
+- Place the ``obsidian-novel-mobile-view`` folder into ``Community plugins`` folder (``Setting → Community plugins → Installed plugins → Open plugins folder icon``).
 
 ## Interface Preview:
 
