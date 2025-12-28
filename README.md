@@ -9,7 +9,7 @@
 - **Paragraph editing tips:** When editing paragraphs, the mobile interface will automatically scroll and highlight them.
 
 ## Installation:
-- Download and extract the file. 
+- [Download](https://github.com/hailey07/obsidian-novel-mobile-view/releases/download/V1.1.1/obsidian-novel-mobile-view.zip) and extract the file . 
 - Place the **obsidian-novel-mobile-view** folder into **Community plugins** folder (Setting → Community plugins → Installed plugins → Open plugins folder icon).
 
 ## Interface Preview:
