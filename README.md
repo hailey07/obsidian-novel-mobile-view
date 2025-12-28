@@ -1,13 +1,20 @@
-[中文介绍](CNReadme.md)
+[📚**中文介绍**](CNReadme.md)
 
-## Function：
-* **Immersive Reading:** Displays notes in a mobile reading format (**Plain text display only**).
-	* Customizable font size, line spacing, 和 paragraph spacing.
-	* Can be changed to a floating window.
-* **Positioning Editing:** Clicking on text in the preview window automatically positions the cursor in the paragraph to be edited.
-* **Paragraph Editing Hints:** Editing paragraphs will automatically scroll and highlight in the preview window.
+## Features:
+- **Real-time reading on mobile:**
+- Switch between **novel reading** and **Markdown document reading** modes.
+- Customizable font size, line spacing, and paragraph spacing.
+- Switch reading font (font files need to be placed in the fonts folder under the plugin directory).
+- **Positioning editing:** Clicking on text on the mobile interface will automatically position the cursor in the corresponding paragraph in the editor.
+- **Paragraph editing tips:** When editing paragraphs, the mobile interface will automatically scroll and highlight them.
 
-## Preview：
-![](images/preview1.png)
-![](images/preview_gif.gif)
-![](images/en_setting_pannel.png)
+## Installation:
+- Download and extract the file. 
+- Place the **obsidian-novel-mobile-view** folder into **Community plugins** folder (Setting → Community plugins → Installed plugins → Open plugins folder icon).
+
+## Interface Preview:
+
+![](images/novel-preview.png)
+![](images/markdown-preview.png)
+![](images/setting-en.png)
+![](images/font-switch.png)
